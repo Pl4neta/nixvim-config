@@ -27,6 +27,7 @@
     #listchars.__raw = "{ tab = '» ', trail = '·', nbsp = '␣' }";
 
     # Tab defaults (might get overwritten by an LSP server)
+		expandtab = true;
     tabstop = 2;
     shiftwidth = 2;
     softtabstop = 2;
